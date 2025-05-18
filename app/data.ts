@@ -35,8 +35,8 @@ export const WEB_DESCRIPTION =
 export const FOOTER_COPYRIGHT = '© 2025 Nguyen Van B.'
 export const FOOTER_LINK = 'https://github.com/username/'
 
-export const NAME = 'Nguyen Van B'
-export const JOB_TITLE = 'NASA Frontend Intern'
+export const NAME = 'Nguyen Phan Hoang Bach'
+export const JOB_TITLE = 'HCMUS Second Year Students'
 export const DESCRIPTION =
   'I am a passionate designer and developer with a focus on creating beautiful and functional user interfaces. I have experience in design engineering, front-end development, and product design. I love to explore the intersection of design and technology, and I am always looking for new challenges to tackle.'
 
